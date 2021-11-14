@@ -1,17 +1,17 @@
 # Проект 0. Угадай число
 
 ## Оглавление  
-[1. Описание проекта](.README.md#Описание-проекта)  
-[2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
-[5. Результат](.README.md#Результат)    
-[6. Выводы](.README.md#Выводы) 
+[1. Описание проекта](https://github.com/feniksprog/DataScients/tree/master/Guess-number-task/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/feniksprog/DataScients/tree/master/Guess-number-task/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/feniksprog/DataScients/tree/master/Guess-number-task/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/feniksprog/DataScients/tree/master/Guess-number-task/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/feniksprog/DataScients/tree/master/Guess-number-task/README.md#Результат)    
+[6. Выводы](https://github.com/feniksprog/DataScients/tree/master/Guess-number-task/README.md#Выводы) 
 
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](_)
+:arrow_up:[к оглавлению](https://github.com/feniksprog/DataScients/tree/master/Guess-number-task/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -32,17 +32,17 @@ game_v2 - программа, которая угадывает рандомно
 ### Краткая информация о данных
 На входе генерируемая последовательность случайных чисел
   
-[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/feniksprog/DataScients/tree/master/Guess-number-task/README.md#Оглавление)
 
 
 ### Результаты:  
 Протестировано на последовательности случайных чисел из 1000000 повторений. Алгоритм угадывает число в среднем за:7 попыток.
 
-[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/feniksprog/DataScients/tree/master/Guess-number-task/README.md#Оглавление)
 
 
 ### Выводы:  
 Все успешно работает. Ни разу количество попыток отгадать число не перевалило за 20.
 
-[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/feniksprog/DataScients/tree/master/Guess-number-task/README.md#Оглавление)
 
